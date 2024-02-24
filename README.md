@@ -1,5 +1,5 @@
 # Air Quality Analysis
-This Python script utilizes various machine learning models, including Linear Regression, Decision Trees, Random Forests, AdaBoost, and XGBoost, to analyze and predict air quality based on a dataset containing multiple environmental variables. It covers both regression and classification tasks, providing insights into temperature prediction and air quality classification.
+This Python script employs diverse machine learning models (Linear Regression, Decision Trees, Random Forests, AdaBoost, and XGBoost) for air quality analysis and temperature prediction. It encompasses data cleaning, exploration, interpretation, and variable selection. The script also includes the creation of plots to visualize the dataset and model results, enhancing insights into temperature prediction and air quality classification.
 
 Dataset: https://archive.ics.uci.edu/dataset/360/air+quality
 
